@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sandraphotography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@sandraphotography" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/praba-k-a41aa2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praba-k-a41aa2202" height="30" width="40" /></a>
-<a href="https://kaggle.com/prabakaran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="prabakaran123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@20ecom133prabak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@20ecom133prabak1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/20ecom133prabakaran/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/20ecom133prabakaran/profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praba-k-a41aa2202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
