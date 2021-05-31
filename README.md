@@ -10,10 +10,6 @@
 - 💬 Ask me about **Python,html,R**
 
 - 📫 How to reach me **20ecom133prabakaran@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/praba-k-a41aa2202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
